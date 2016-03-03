@@ -1,0 +1,44 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+a {
+    color: #bcbbbb;
+    font-weight: 200;
+}
+
+hr {
+    border-top: 1px solid #747704;
+}
+
+.round-border {
+    border-radius: 50%;
+    max-width: 40%;
+}
+
+.full-name {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    color: #747704;
+}
+
+.job-title {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    color: #747704;
+}
+
+.featured-work-text {
+    color: #bcbbbb;
+    font-weight: 200;
+}
+
+.header {
+    margin: 10px auto;
+    padding: 0 20px;
+    border-bottom: 2px #747704;
+}
+
+.navbar-padding {
+    padding: 70px 20px 0 50px;
+}
